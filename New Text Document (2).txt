@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>MYNTRA</title>
+<link rel="stylesheet" type="text/css" href="a.css"></link>
+</head>
+<body>
+<div class="bgcolor">
+<div class="menu">
+<div class="leftmenu">
+<h4>MYNTRA</h4>
+</div>
+<div class="rightmenu">
+<ul>
+<li>HOME</li>
+<li>MEN</li>
+<li>WOMEN</li>
+<li>KIDS</li>
+<li>HOME&LIVEING</li>
+</ul>
+<div class="search_box"></div>
+<input  class="search_text" type="text" name="" placeholder="Search">
+<a class="search_btn" href="#"></a>
+</div>
+</div>
+<div class="text">
+<h3>THIS IS A ROK STAR</h3>
+<h1>CREATIVE & EXPERANCIVE</h1>
+<h4>WE ARE THE ONE OF THE WORLD'S TOP WEBSITE</h4>
+<button id="buttonone">like share</button>
+<button id="buttontwo">subscribe</button>
+</div>
+
+</div>
+</body>
+</html>
